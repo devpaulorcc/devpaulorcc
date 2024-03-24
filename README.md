@@ -1,8 +1,11 @@
-### 🚀 Olá! Eu sou Paulo 🚀
+## 🚀 Olá! Eu sou Paulo 🚀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulorcc-mylink/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulocardosorc/)
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=devpaulo2077&show_icons=true&theme=dracula)
+<br>
+<hr>
+
 
 ### 🌐 Tecnologias que eu uso no meu dia 🌐
 
@@ -14,4 +17,14 @@
     <img align='center' alt='react native' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
     <img align='center' alt='python' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
     <img align='center' alt='mysql' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
+</div>
+
+<br>
+<hr>
+<br>
+
+### Minha logo
+
+<div>
+    <img src="https://i.ibb.co/bK5Lgt0/Logo-Paulo-Ricardo.png" alt="Logo-Paulo-Ricardo" border="0">
 </div>
