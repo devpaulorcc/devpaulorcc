@@ -27,11 +27,3 @@
 </div>
 
 </div>
-
-
-## Programando o futuro, hoje.
-<div>
-    <img src="https://i.ibb.co/bK5Lgt0/Logo-Paulo-Ricardo.png(https://uploaddeimagens.com.br/imagens/RFZRNIw)(https://uploaddeimagens.com.br/imagens/RFZRNIw)" alt="Logo-Paulo-Ricardo" border="0">
-</div>
-
-</div>
