@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="220" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif"  />
+<img align="right" height="210" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif"  />
 
 ###
 
