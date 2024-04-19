@@ -14,6 +14,7 @@
 ###
 
 <div align="center">
+  <h3>Skills and tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
@@ -32,7 +33,7 @@
 ###
 
 <div align="center" >
-<h2>Contact</h2>
+  <h3>Contact</h3>
   <a href="mailto:dev.paulorc@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=61DBFB&logoColor=61DBFB&labelColor=000&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
