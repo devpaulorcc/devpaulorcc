@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
-  <a href="www.linkedin.com/in/paulo-ricardo-cardoso" target="_blank">
+  <a href="www.linkedin.com/in/paulorcc-mylink" target="_blank">
      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=61DBFB&logoColor=61DBFB&labelColor=000&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 </div>
