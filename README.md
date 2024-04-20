@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/devpaulo2077/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=61DBFB&logoColor=61DBFB&labelColor=000&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://www.linkedin.com/in/paulo-ricardo-cardoso/" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
