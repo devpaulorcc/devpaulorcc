@@ -21,8 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="50" alt="codeigniter logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />  
 </div>
 
 ###
