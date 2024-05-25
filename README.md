@@ -8,8 +8,8 @@
 
 <div align="center">
   <h3>Skills and tools</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=devpaulo2077&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devpaulo2077&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=devpaulo2077&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="148" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devpaulo2077&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=true" height="148" alt="languages graph"  />
 </div>
 
 ###
