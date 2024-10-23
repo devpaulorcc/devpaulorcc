@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devpaulo2077&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=swift&hide_border=true" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devpaulorcc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=swift&hide_border=true" height="170" alt="languages graph"  />
 </div>
 
 ###
