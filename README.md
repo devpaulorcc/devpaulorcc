@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devpaulorcc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=swift&hide_border=true" height="170" alt="languages graph"  />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=devpaulorcc&radius=16&theme=minimal&area=true&order=5" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
