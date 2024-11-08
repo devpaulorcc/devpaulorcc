@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm a full-stack developer. 👨🏻‍💻👋🏻</h1>
 <img align="right" height="200"  src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif"  />
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 <p align="left">I'm from Brazil, developer with experience in various technologies.<br><br>- 🔭 in programming for 2 years<br>- 📚 computer technician and computer scientist<br>- ⚡ Problem solving, leadership and collaboration</p>
 
 
