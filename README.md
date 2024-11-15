@@ -13,7 +13,7 @@
 
 <h2 align="left">🛠 Language and tools</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,react,vue,python,django,php,laravel,nest,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,react,vue,python,django,php,laravel,typescript,nest,mysql,git" />
 </p>
 
 ###
