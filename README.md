@@ -1,41 +1,20 @@
-<h1 align="center">Hi, I'm a full-stack developer. 👨🏻‍💻👋🏻</h1>
-<img align="right" height="200"  src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif"  />
-<h3 align="left"><br><br>- 🔭 in programming for 2 years<br>- 📚 computer technician and computer scientist<br>- ⚡ Problem solving, leadership and collaboration</h3><br><br>
-
-
-###
-
-
-
-
-###
-
-<h2 align="left">🛠 Language and tools</h2>
-<br>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,react,vue,python,django,php,laravel,typescript,nest,mysql,git" />
-</p>
-
-###
-
-<h2 align="left">🔥  My Stats :</h2>
-
-###
+<h1 align="center">Hi 👋, I'm Paulo Ricardo</h1>
+<h3 align="center">For every challenge, a way to adapt 🚀</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devpaulorcc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=swift&hide_border=true&order=2" height="180" alt="languages graph"  />
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=devpaulorcc&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  /> -->
+  <img height="200" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" alt="Typing animation" />
 </div>
 
+---
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nest,react,vue,php,laravel,python,django,mysql,sqlite,git,postman" alt="Technologies and tools" />
+</p>
 
+---
 
-###
 <div align="center">
-  <a href="https://www.linkedin.com/in/paulo-ricardo-cardoso" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5511940239903" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
-  </a>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpaulorcc&show_icons=true&locale=en&layout=compact&theme=swift&hide=html,css" alt="Top Languages" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=devpaulorcc&theme=swift" alt="GitHub Streak" />
 </div>
