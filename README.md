@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nest,react,vue,php,laravel,python,django,mysql,docker,git,postman" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nest,react,vue,php,laravel,mysql,docker,git,postman" alt="Technologies and tools" />
 </p>
 
 ---
