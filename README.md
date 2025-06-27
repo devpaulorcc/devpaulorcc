@@ -10,9 +10,8 @@
 
 ###
 
-<h3>
-    Skills and Tools
-</h3>
+
+### 🖥️ **Skills and Tools**
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=js,nodejs,typescript,nest,vue,nuxt,php,laravel,mysql,mongodb,docker,git,postman" />
