@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paulo Ricardo</h1>
+<h1 align="center">I'm Paulo Ricardo</h1>
 <h3 align="center">For every challenge, a way to adapt 🚀</h3>
 
 ### 🎓 **Education**
