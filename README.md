@@ -13,14 +13,14 @@
 ### 🖥️ **Skills and Tools**
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,nest,vue,nuxt,php,laravel,mysql,mongodb,docker,git,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,nest,vue,nuxt,php,laravel,mysql,mongodb,docker,git,postman,vscode" />
 </p>
 
-<br clear="both">
+<br>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpaulorcc&show_icons=true&locale=en&layout=compact&theme=swift&hide=html,css" alt="devpaulorcc" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=devpaulorcc&theme=swift" alt="devpaulorcc" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulorccamargo&show_icons=true&locale=en&layout=compact&theme=swift&hide=html,css" alt="paulorccamargo" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=paulorccamargo&theme=swift" alt="paulorccamargo" />
 </div>
 
 <br>
