@@ -13,7 +13,7 @@
 ### 🖥️ **Skills and Tools**
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=js,typescript,nest,vue,nuxt,php,laravel,mysql,mongodb,docker,git,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,js,typescript,nest,vue,nuxt,php,laravel,mysql,mongodb,docker,git,postman" />
 </p>
 
 <br>
